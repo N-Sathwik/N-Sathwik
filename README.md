@@ -122,3 +122,5 @@
   ⭐ <b>From N-Sathwik</b><br>
   Thanks for visiting! Don’t forget to ⭐ some repositories if you find them interesting 🙂
 </p>
+
+![snake gif](https://github.com/N-Sathwik/N-Sathwik/blob/output/github-snake-dark.svg)
