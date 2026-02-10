@@ -124,5 +124,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/N-Sathwik/N-Sathwik/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/N-Sathwik/N-Sathwik/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
