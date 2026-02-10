@@ -123,4 +123,6 @@
   Thanks for visiting! Don’t forget to ⭐ some repositories if you find them interesting 🙂
 </p>
 
-![snake gif](https://github.com/N-Sathwik/N-Sathwik/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/N-Sathwik/N-Sathwik/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
